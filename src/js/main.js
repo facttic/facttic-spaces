@@ -2,7 +2,10 @@ const venn = require('@upsetjs/venn.js')
 const d3 = require('d3')
 const { sets } = require('../data/spaces.json')
 
-const chart = venn.VennDiagram().width(900).height(900)
+const chart = venn
+  .VennDiagram({ symmetricalTextCentre: true })
+  .width(900)
+  .height(900)
 
 const div = d3.select('#venn')
 div.datum(sets).call(chart)
