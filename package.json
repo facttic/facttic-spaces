@@ -1,7 +1,7 @@
 {
-  "name": "3d-css-scene",
+  "name": "facctic-spaces",
   "version": "1.0.5",
-  "description": "Create and manipulate a walkable 3d css scene",
+  "description": "Visualization of different Spaces we have in Facttic",
   "main": "dist/bundle.js",
   "scripts": {
     "build": "webpack --mode=production",
