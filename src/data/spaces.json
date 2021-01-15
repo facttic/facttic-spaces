@@ -3,39 +3,126 @@
     {
       "sets": [0],
       "label": "Asamblea Mensual",
-      "size": 100,
-      "desc": "Es la asamblea donde bla bla bla. Reuniones: Terceros martes de cada mes a las 10:30AM",
+      "size": 11,
+      "desc": "Es la asamblea donde bla bla bla",
       "hour": "2° Martes 10:30hs a 12hs",
-      "link": "http://google.com"
+      "link": "https://facttic.org"
     },
-    { "sets": [1], "label": "Consejo", "size": 10, "desc": "Es" },
-    { "sets": [0, 1], "size": 2 },
-    { "sets": [2], "label": "Plenario", "size": 5, "desc": "Es" },
-    { "sets": [1, 2], "size": 1 },
-    { "sets": [3], "label": "Plataformas Cooperativas", "size": 10, "desc": "Es" },
-    { "sets": [0, 3], "size": 2 },
-    { "sets": [4], "label": "Coopcycle", "size": 5, "desc": "Es" },
-    { "sets": [3, 4], "size": 1 },
-    { "sets": [5], "label": "Juventud", "size": 10, "desc": "Es" },
-    { "sets": [6], "label": "Mesa de Generos", "size": 10, "desc": "Es" },
-    { "sets": [0, 5], "size": 2 },
-    { "sets": [0, 6], "size": 2 },
-    { "sets": [7], "label": "FIC", "size": 10, "desc": "Es" },
-    { "sets": [0, 7], "size": 2 },
-    { "sets": [8], "label": "Puntapie Inicial", "size": 5, "desc": "Es" },
-    { "sets": [7, 8], "size": 1 },
-    { "sets": [9], "label": "FIT Vinculación", "size": 10, "desc": "Es" },
-    { "sets": [10], "label": "Show & Tell", "size": 5, "desc": "Es" },
-    { "sets": [0, 9], "size": 2 },
-    { "sets": [9, 10], "size": 1 },
-    { "sets": [11], "label": "FIT Proyectos", "size": 10, "desc": "Es" },
-    { "sets": [0, 11], "size": 2 },
-    { "sets": [9, 11], "size": 1 },
-    { "sets": [12], "label": "FIP", "size": 5, "desc": "Es" },
-    { "sets": [11, 12], "size": 1 },
-    { "sets": [13], "label": "Hack[TIC]", "size": 5, "desc": "Es" },
-    { "sets": [14], "label": "Comunicación", "size": 5, "desc": "Es" },
-    { "sets": [11, 13], "size": 1 },
-    { "sets": [0, 14], "size": 2 }
+    {
+      "sets": [1],
+      "label": "Consejo",
+      "size": 8,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [2],
+      "label": "Plenario",
+      "size": 5,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [3],
+      "label": "Plataformas Cooperativas",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [4],
+      "label": "Coopcycle",
+      "size": 10,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [5],
+      "label": "Juventud",
+      "size": 12,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [6],
+      "label": "Mesa de Generos",
+      "size": 5,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [7],
+      "label": "FIC",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [8],
+      "label": "Puntapie Inicial",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [9],
+      "label": "FIT Vinculación",
+      "size": 12,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [10],
+      "label": "Show & Tell",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [11],
+      "label": "FIT Proyectos",
+      "size": 10,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [11, 9],
+      "size": 1
+    },
+    {
+      "sets": [12],
+      "label": "FIP",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [13],
+      "label": "Hack[TIC]",
+      "size": 4,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    },
+    {
+      "sets": [14],
+      "label": "Comunicación",
+      "size": 12,
+      "desc": "Esta es la descripción qué cosas hacen",
+      "hour": "Un día X a las 12PM",
+      "link": "https://google.com"
+    }
   ]
 }
